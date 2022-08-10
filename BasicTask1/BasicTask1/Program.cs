@@ -30,6 +30,12 @@ namespace BasicTask1
             // Task5 Implementation of different operators 
             Operators operators = new Operators();
             operators.OperarorsImplementation();
+
+            // Task6 IF ELSE statetment 
+            IfElseStatetment ifElseStatetment = new IfElseStatetment();
+            ifElseStatetment.IfElse();
+
+
             
 
 
