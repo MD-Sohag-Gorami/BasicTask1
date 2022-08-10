@@ -48,6 +48,9 @@ namespace BasicTask1
 
             comments.CommnetsImplementations();
 
+            Loop loop = new Loop();
+            loop.LoopImplementation();
+
 
 
 
