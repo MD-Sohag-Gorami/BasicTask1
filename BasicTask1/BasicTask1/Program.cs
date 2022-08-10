@@ -38,6 +38,10 @@ namespace BasicTask1
             //Taks7 && and || operators 
             AdvangedOperators advangedOperators = new AdvangedOperators();
             advangedOperators.OperatorsOperations();
+            
+            //Task8 Ternary Operators
+            TernaryOperators ternaryOperators = new TernaryOperators();
+            ternaryOperators.TernaryOperatosImplementations();
 
             
 
