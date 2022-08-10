@@ -16,14 +16,19 @@ namespace BasicTask1
             PrimitiveType primitiveType = new PrimitiveType();
             primitiveType.PrimitiveTypePrint();
 
-            // task3 
+            // task3 OverFlow Checking 
+            OverFlowCheck check = new OverFlowCheck();
+            int value = check.CheckedMethod();
+            Console.WriteLine(value);
+            int value2 = check.UncheckedMethod();
+            Console.WriteLine(value2);
 
-    
 
 
 
 
-            
+
+
         }
     }
 }
