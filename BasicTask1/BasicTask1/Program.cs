@@ -23,6 +23,10 @@ namespace BasicTask1
             int value2 = check.UncheckedMethod();
             Console.WriteLine(value2);
 
+            // Taks4 Coverting one type to another
+            ConversionMethod conversionMethod = new ConversionMethod();
+            conversionMethod.ConvertMethod();
+
 
 
 
