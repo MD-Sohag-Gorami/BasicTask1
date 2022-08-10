@@ -43,7 +43,12 @@ namespace BasicTask1
             TernaryOperators ternaryOperators = new TernaryOperators();
             ternaryOperators.TernaryOperatosImplementations();
 
-            
+            //Taks9 Comments
+            Comments comments = new Comments();
+            comments.CommnetsImplementations();
+
+
+
 
 
 
