@@ -27,6 +27,11 @@ namespace BasicTask1
             ConversionMethod conversionMethod = new ConversionMethod();
             conversionMethod.ConvertMethod();
 
+            // Task5 Implementation of different operators 
+            Operators operators = new Operators();
+            operators.OperarorsImplementation();
+            
+
 
 
 
