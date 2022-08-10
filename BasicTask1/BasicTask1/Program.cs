@@ -35,6 +35,9 @@ namespace BasicTask1
             IfElseStatetment ifElseStatetment = new IfElseStatetment();
             ifElseStatetment.IfElse();
 
+            //Taks7 && and || operators 
+            AdvangedOperators advangedOperators = new AdvangedOperators();
+            advangedOperators.OperatorsOperations();
 
             
 
