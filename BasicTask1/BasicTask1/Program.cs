@@ -1,2 +1,22 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+using System ;
+namespace BasicTask1
+{
+
+    class Program
+    {
+        static void Main(string[] args )
+        {
+            //Task1 
+            HelloWorld helloWorld = new HelloWorld();
+            helloWorld.HelloWorldPrint();
+
+    
+
+
+
+
+            
+        }
+    }
+}
