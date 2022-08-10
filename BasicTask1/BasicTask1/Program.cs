@@ -45,9 +45,8 @@ namespace BasicTask1
 
             //Taks9 Comments
             Comments comments = new Comments();
+
             comments.CommnetsImplementations();
-
-
 
 
 
