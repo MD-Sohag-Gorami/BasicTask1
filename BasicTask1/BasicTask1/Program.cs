@@ -48,8 +48,14 @@ namespace BasicTask1
 
             comments.CommnetsImplementations();
 
+            //Task 10 Loop Statetment
+
             Loop loop = new Loop();
             loop.LoopImplementation();
+            //Task11 Switch Case
+            SwichCase swichCase = new SwichCase();
+            swichCase.SwichStatement();
+
 
 
 
