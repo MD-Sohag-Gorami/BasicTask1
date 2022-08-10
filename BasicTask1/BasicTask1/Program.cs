@@ -10,6 +10,13 @@ namespace BasicTask1
             //Task1 
             HelloWorld helloWorld = new HelloWorld();
             helloWorld.HelloWorldPrint();
+            
+            //Task2 "All primitive type" 
+
+            PrimitiveType primitiveType = new PrimitiveType();
+            primitiveType.PrimitiveTypePrint();
+
+            // task3 
 
     
 
